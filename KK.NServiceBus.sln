@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KK.NSB.Client", "KK.NSB.Client\KK.NSB.Client.csproj", "{2CF205EA-9B75-4BE2-A59F-EE59D900BC77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KK.NSB.Messages", "KK.NSB.Messages\KK.NSB.Messages.csproj", "{20ADB337-B8F3-482F-9DE0-31F0BEBDD773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KK.NSB.Server", "KK.NSB.Server\KK.NSB.Server.csproj", "{9EF7F99B-A83B-42C1-8281-71A2FFE98787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{2CF205EA-9B75-4BE2-A59F-EE59D900BC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CF205EA-9B75-4BE2-A59F-EE59D900BC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CF205EA-9B75-4BE2-A59F-EE59D900BC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20ADB337-B8F3-482F-9DE0-31F0BEBDD773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ADB337-B8F3-482F-9DE0-31F0BEBDD773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ADB337-B8F3-482F-9DE0-31F0BEBDD773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ADB337-B8F3-482F-9DE0-31F0BEBDD773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF7F99B-A83B-42C1-8281-71A2FFE98787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF7F99B-A83B-42C1-8281-71A2FFE98787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF7F99B-A83B-42C1-8281-71A2FFE98787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF7F99B-A83B-42C1-8281-71A2FFE98787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
